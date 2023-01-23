@@ -15,3 +15,7 @@ border-color: gery;
 border-width: 10px;
 width:5%;
 }
+img
+{
+  border-radius:100%
+}
